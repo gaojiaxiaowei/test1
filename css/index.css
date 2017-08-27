@@ -1,0 +1,28 @@
+.img1{
+    width: 100%;
+    height: auto;
+}
+.swiper-container{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.btn{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    z-index: inherit;
+    border-radius:10px;
+    height:100px;
+    background:red ;
+}
+.btn p{
+    font-size: 40px;
+    line-height: 100px;
+    text-align: center;
+    color: #fff;
+    letter-spacing:5px;
+}
+.swiper-container-horizontal>.swiper-pagination-bullets{
+    bottom:50px;
+}
