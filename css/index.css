@@ -8,8 +8,8 @@
     margin: 0 auto;
 }
 .btn{
-    position: relative;
-    bottom: 10px;
+    position: fixed;
+    bottom: 0px;
     width:100%;
     z-index: inherit;
     border-radius:10px;
